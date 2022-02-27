@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667001856122",
+    "project_id": "today-house-cebe6",
+    "storage_bucket": "today-house-cebe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667001856122:android:3bfb44252169a3cc33dbc3",
+        "android_client_info": {
+          "package_name": "com.house.today.today_house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667001856122-1k2t6o71at6imonfvbv1rjoa10l9vjro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gLyeXMefXG2gcNGy1W86aFBXp3GndOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667001856122-1k2t6o71at6imonfvbv1rjoa10l9vjro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
